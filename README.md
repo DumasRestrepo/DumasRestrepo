@@ -20,7 +20,7 @@
 
 - 👨‍💻 Algunos de mis proyectos están disponibles en [https://github.com/DumasRestrepo](https://github.com/DumasRestrepo)
 
-- ✍️ Escribo regularmente artículos sobre [Aún no tengo blog, pero me interesa escribir sobre mis aprendizajes en desarrollo de software.](Aún no tengo blog, pero me interesa escribir sobre mis aprendizajes en desarrollo de software.)
+- ✍️ Escribo regularmente artículos sobre (Aún no tengo blog, pero me interesa escribir sobre mis aprendizajes en desarrollo de software.)
 
 - 💬 Pregúntame sobre **Python, fidelización de clientes.**
 
