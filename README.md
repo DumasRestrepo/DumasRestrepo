@@ -26,7 +26,7 @@
 
 - 📫 Cómo ponerse en contacto conmigo **dumasrestrepo27@gmail.com**
 
-- 🧾 Conocer mis experiencias [CV en construcción, disponible bajo solicitud.](CV en construcción, disponible bajo solicitud.)
+- 🧾 Conocer mis experiencias (CV en construcción, disponible bajo solicitud.)
 
 - 🎉 Dato curioso **Creo que soy gracioso. 😄**
 
