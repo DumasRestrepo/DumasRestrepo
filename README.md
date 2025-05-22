@@ -23,13 +23,13 @@
 
 - 👨‍💻 Algunos de mis proyectos están disponibles en [https://github.com/DumasRestrepo](https://github.com/DumasRestrepo)
 
-- ✍️ Escribo regularmente artículos sobre (Aún no tengo blog, pero empezaré a escribir sobre mis aprendizajes en desarrollo de software.)
+- ✍️ Escribo regularmente artículos sobre [](Aún no tengo blog, pero empezaré a escribir sobre mis aprendizajes en desarrollo de software.)
 
 - 💬 Pregúntame sobre **Python, fidelización de clientes.**
 
 - 📫 Cómo ponerse en contacto conmigo **dumasrestrepo27@gmail.com**
 
-- 🧾 Conocer mis experiencias (CV en construcción, disponible bajo solicitud.)
+- 🧾 Conocer mis experiencias [](CV en construcción, disponible bajo solicitud.)
 
 - 🎉 Dato curioso **Creo que soy gracioso. 😄**
 
