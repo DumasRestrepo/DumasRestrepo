@@ -13,7 +13,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumasrestrepo&label=Profile%20views&color=0e75b6&style=flat" alt="dumasrestrepo" /> </p>
 
-- 🚀 Actualmente estoy trabajando en [Sistema de fidelización](https://github.com/ChristianJaimes/PythonCourse/commit/67cb328b0f329b8c1c9b1660d2adf27b4bb0c0fc)
+- 🚀 Trabajé en un [Sistema de fidelización](https://github.com/ChristianJaimes/PythonCourse/commit/67cb328b0f329b8c1c9b1660d2adf27b4bb0c0fc)
 
 - 📚 Actualmente estoy aprendiendo Python intermedio, Git y GitHub (flujo de trabajo con ramas y pull requests), SQL básico (para bases de datos en proyectos futuros), Fundamentos de desarrollo web (HTML, CSS, JavaScript), Buenas prácticas de programación y documentación, Lógica de programación con enfoque en proyectos reales.
 
