@@ -4,6 +4,9 @@
 <h1 align="center">Hola 👋, Soy Dumas Alejandro Restrepo Moreno 🧑🏼‍💻</h1>
 <h3 align="center">Soy un jóven apasionado por el desarrollo, actualmente soy Trainee en Programación⚡</h3>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumasrestrepo&label=Profile%20views&color=0e75b6&style=flat" alt="dumasrestrepo" /> </p>
 
