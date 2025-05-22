@@ -7,6 +7,17 @@
 <h3 align="center">Soy un jóven apasionado por el desarrollo, actualmente soy Trainee en Programación⚡</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 👨‍💻 Sobre mí
+
+- 📍 Originario de Cúcuta, Norte de Santander – Colombia 🇨🇴  
+- 🎓 Estudiante de Ingeniería de Software y Trainee en Programación  
+- 💻 Apasionado por la tecnología, disfruto resolver problemas con código y construir soluciones que generen impacto  
+- 🚀 Me encanta aprender nuevas tecnologías, actualmente profundizando en Python y desarrollo backend  
+- 🧠 En constante evolución: aprendiendo inglés, trabajando en proyectos personales y colaborando en iniciativas locales  
+- 🌎 Sueño con convertirme en desarrollador full stack y contribuir a proyectos open source  
+- 🗣️ Idiomas: Español 🇪🇸 | Inglés 🇬🇧 (nivel básico, mejorando día a día)  
+
+
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumasrestrepo&label=Profile%20views&color=0e75b6&style=flat" alt="dumasrestrepo" /> </p>
