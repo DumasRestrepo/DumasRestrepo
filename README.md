@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+<p 
+  align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 90px height = 90></picture>
 </p>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h1 align="center">Hola 👋, Soy Dumas Alejandro Restrepo Moreno 🧑🏼‍💻</h1>
+<h1 align="center">Hola 👋, Soy Dumas Alejandro Restrepo Moreno </h1>
 <h3 align="center">Soy un jóven apasionado por el desarrollo, actualmente soy Trainee en Programación⚡</h3>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
