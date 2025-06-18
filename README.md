@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 📍 Originario de Cúcuta, Norte de Santander – Colombia 🇨🇴  
+- 📍 Originario de Cúcuta, Norte de Santander – Colombia 
 - 🎓 Estudiante de Ingeniería de Software y Trainee en Programación  
 - 💻 Apasionado por la tecnología, disfruto resolver problemas con código y construir soluciones que generen impacto  
 - 🚀 Me encanta aprender nuevas tecnologías, actualmente profundizando en Python y desarrollo backend  
